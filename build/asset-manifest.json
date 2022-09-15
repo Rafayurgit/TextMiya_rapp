@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextMiya/static/css/main.073c9b0a.css",
+    "main.js": "/TextMiya/static/js/main.36857c4b.js",
+    "static/js/787.5480e000.chunk.js": "/TextMiya/static/js/787.5480e000.chunk.js",
+    "index.html": "/TextMiya/index.html",
+    "main.073c9b0a.css.map": "/TextMiya/static/css/main.073c9b0a.css.map",
+    "main.36857c4b.js.map": "/TextMiya/static/js/main.36857c4b.js.map",
+    "787.5480e000.chunk.js.map": "/TextMiya/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.36857c4b.js"
+  ]
+}
